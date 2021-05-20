@@ -1,0 +1,7 @@
+ongr_elasticsearch:
+  indexes:
+    default:
+      index:
+        index_name: kibana_sample_data_ecommerce
+        hosts:
+          - 127.0.0.1:9209
